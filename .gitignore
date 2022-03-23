@@ -1,0 +1,9 @@
+node_modules
+.idea
+yarn-error.log
+build/
+.env
+webpack.common.js
+cypress/videos
+cypress/screenshots
+
